@@ -1,7 +1,6 @@
  # Hi, I’m Coni Garibotto 👋🏾 👩🏾‍💻
 
-- 👀 I’m interested in front-end and back-end development. I'm also interested in languages. 
-- 🌱 I’m currently learning more about back-end languages.
+- 👀I'm 23 years old software delvelopment student from Argentina. I'm currently learning more about back-end languagues, especially JAVA.
 - ✨ Web Tech Stack: HTML5, CSS3, JAVASCRIPT. 
 ## How to reach me 🌎: <a href="(https://github.com/conigaribotto)"></a>
 - <a href="mailto:coti.garibotto@gmail.com/">Mail</a>📫
