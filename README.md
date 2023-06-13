@@ -1,6 +1,6 @@
  # Hi, I’m Coni Garibotto 👋🏾 👩🏾‍💻
 
-- 👀I'm 23 years old Software Development and English student from Argentina. I'm currently learning back-end development at Globant University.
+- 👀I'm a 23 years old Software Development and English student from Argentina. I'm currently learning back-end development at Globant University.
 - ✨ Web Tech Stack: HTML5, CSS3, JAVASCRIPT. 
 ## How to reach me 🌎: <a href="(https://github.com/conigaribotto)"></a>
 - <a href="mailto:coti.garibotto@gmail.com/">Mail</a>📫
